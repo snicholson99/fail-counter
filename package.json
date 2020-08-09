@@ -1,6 +1,6 @@
 {
   "name": "fail-counter",
-  "homepage": "https://github.com/snicholson99/fail-counter",
+  "homepage": "http://snicholson99.github.io/fail-counter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
