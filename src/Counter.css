@@ -24,3 +24,17 @@ button {
   display: flex;
   align-items: center;
 }
+
+@media (prefers-color-scheme: dark) {
+  .counter-container {
+    background-color: #080808;
+    color: #FFFFFF;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .counter-container {
+    background-color: #FFFFFF;
+    color: #080808;
+  }
+}
