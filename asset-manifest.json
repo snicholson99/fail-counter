@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/snicholson99/fail-counter/static/css/main.d1f6521f.chunk.css",
-    "main.js": "/snicholson99/fail-counter/static/js/main.244a3aab.chunk.js",
-    "main.js.map": "/snicholson99/fail-counter/static/js/main.244a3aab.chunk.js.map",
-    "runtime-main.js": "/snicholson99/fail-counter/static/js/runtime-main.1ebfbc36.js",
-    "runtime-main.js.map": "/snicholson99/fail-counter/static/js/runtime-main.1ebfbc36.js.map",
-    "static/js/2.08a05dca.chunk.js": "/snicholson99/fail-counter/static/js/2.08a05dca.chunk.js",
-    "static/js/2.08a05dca.chunk.js.map": "/snicholson99/fail-counter/static/js/2.08a05dca.chunk.js.map",
-    "index.html": "/snicholson99/fail-counter/index.html",
-    "precache-manifest.33e28051e30d3e24fee1b5ac9ace7e0b.js": "/snicholson99/fail-counter/precache-manifest.33e28051e30d3e24fee1b5ac9ace7e0b.js",
-    "service-worker.js": "/snicholson99/fail-counter/service-worker.js",
-    "static/css/main.d1f6521f.chunk.css.map": "/snicholson99/fail-counter/static/css/main.d1f6521f.chunk.css.map",
-    "static/js/2.08a05dca.chunk.js.LICENSE.txt": "/snicholson99/fail-counter/static/js/2.08a05dca.chunk.js.LICENSE.txt"
+    "main.css": "/fail-counter/static/css/main.d1f6521f.chunk.css",
+    "main.js": "/fail-counter/static/js/main.7b46ca84.chunk.js",
+    "main.js.map": "/fail-counter/static/js/main.7b46ca84.chunk.js.map",
+    "runtime-main.js": "/fail-counter/static/js/runtime-main.8cba6aae.js",
+    "runtime-main.js.map": "/fail-counter/static/js/runtime-main.8cba6aae.js.map",
+    "static/js/2.08a05dca.chunk.js": "/fail-counter/static/js/2.08a05dca.chunk.js",
+    "static/js/2.08a05dca.chunk.js.map": "/fail-counter/static/js/2.08a05dca.chunk.js.map",
+    "index.html": "/fail-counter/index.html",
+    "precache-manifest.8cf6889e4b057f29ac06a505dc133de6.js": "/fail-counter/precache-manifest.8cf6889e4b057f29ac06a505dc133de6.js",
+    "service-worker.js": "/fail-counter/service-worker.js",
+    "static/css/main.d1f6521f.chunk.css.map": "/fail-counter/static/css/main.d1f6521f.chunk.css.map",
+    "static/js/2.08a05dca.chunk.js.LICENSE.txt": "/fail-counter/static/js/2.08a05dca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ebfbc36.js",
+    "static/js/runtime-main.8cba6aae.js",
     "static/js/2.08a05dca.chunk.js",
     "static/css/main.d1f6521f.chunk.css",
-    "static/js/main.244a3aab.chunk.js"
+    "static/js/main.7b46ca84.chunk.js"
   ]
 }
